@@ -1,0 +1,14 @@
+.homepage-container {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.action-btn-container {
+  display: flex;
+  flex-direction: column;
+  min-width: 80%;
+}
+.action-btn-container .action-btn {
+  margin-bottom: 12px;
+}
